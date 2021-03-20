@@ -1,5 +1,5 @@
 # best-repo-ever
 # This is my readme File
-# 2021-03-19	10:20 PM
+# 2021-03-19	10:21 PM
 # ShannonStDennis
-# new-branch-1
+# This is new-branch-2 after conflict resolution
